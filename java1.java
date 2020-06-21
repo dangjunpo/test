@@ -1,1 +1,1 @@
-<? system.out.println("")>
+<? system.out.println("hello")>
